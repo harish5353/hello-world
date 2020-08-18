@@ -1,0 +1,42 @@
+[33mcommit 130808180c60b4c3226b4b294aacf8925276b327[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 7e85e36 c5b0b3e
+Author: Harish Reddy <harish111@gmail.com>
+Date:   Sun Jul 26 08:38:10 2020 +0530
+
+    New commit2
+
+[33mcommit 7e85e36c6ac3f43ba1b0177d125dd0b760df1528[m
+Author: Harish Reddy <harish111@gmail.com>
+Date:   Sun Jul 26 08:17:55 2020 +0530
+
+    New commit1
+
+[33mcommit 98b67d4b76e2fb39f58f65e4fbfacde98c8abf79[m
+Author: Harish Reddy <harish111@gmail.com>
+Date:   Fri Jul 24 19:20:35 2020 +0530
+
+    Ipsum text added
+
+[33mcommit ad9b2735b2733c5adad8ab944209d7d96e4b5b13[m
+Author: Harish Reddy <harish111@gmail.com>
+Date:   Fri Jul 24 19:14:51 2020 +0530
+
+    Second commit
+
+[33mcommit c5b0b3ee3dc0add8597b79e27c42c987591c4681[m
+Author: harish5353 <49094968+harish5353@users.noreply.github.com>
+Date:   Thu Jul 23 20:55:25 2020 +0530
+
+    Update README.md
+
+[33mcommit 2412018789ccdc0a60e0cb70da73368ab2807b02[m
+Author: harish5353 <harish111@gmail.com>
+Date:   Thu Jul 23 20:54:22 2020 +0530
+
+    new line added
+
+[33mcommit a4f92da81f0de9053dc80b43d661e015bf1412c5[m
+Author: harish5353 <49094968+harish5353@users.noreply.github.com>
+Date:   Sat Mar 30 17:41:02 2019 +0530
+
+    Initial commit
